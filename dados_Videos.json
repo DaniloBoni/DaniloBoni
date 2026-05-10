@@ -1,0 +1,65 @@
+[
+  {
+    "nome": "interestelar",
+    "genero": "Ficção Científica / Drama",
+    "sinopse": "Com a Terra à beira do colapso, um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
+    "classificacao": "12 anos",
+    "ano": "2014",
+    "tipo": "Filme",
+    "tempo": "2 horas 49 minutos"
+  },
+  {
+    "nome": "the office",
+    "genero": "Comédia (Mockumentary - Falso Documentário)",
+    "sinopse": "O cotidiano engraçado e muitas vezes constrangedor de um escritório de vendas de papel na Pensilvânia, liderado pelo chefe sem noção Michael Scott.",
+    "classificacao": "12 anos",
+    "ano": "2005",
+    "tipo": "Série",
+    "tempo": "22 minutos por episódio"
+  },
+  {
+    "nome": "clube da luta",
+    "genero": "Drama / Suspense Psicológico",
+    "sinopse": "Um homem insone e insatisfeito com sua vida corporativa encontra uma forma radical de liberar suas frustrações através de lutas ilegais e um clube secreto que questiona os pilares da sociedade moderna.",
+    "classificacao": "18 anos",
+    "tipo": "Filme",
+    "ano": "1999",
+    "tempo": "2 horas 19 minutos"
+  },
+  {
+    "nome": "jujutsu kaisen",
+    "genero": "Anime de Ação / Sobrenatural",
+    "sinopse": "Um estudante do ensino médio, Yuji Itadori, se envolve com o mundo das maldições após ingerir um objeto amaldiçoado e passa a frequentar uma escola de feiticeiros para combater essas forças sobrenaturais.",
+    "classificacao": "16 anos",
+    "tipo": "Anime",
+    "ano": "2020",
+    "tempo": "24 minutos por episódio"
+  },
+  {
+    "nome": "lupin",
+    "genero": "Ação / Crime / Mistério",
+    "sinopse": "Inspirado nas aventuras do ladrão de casaca Arsène Lupin, o protagonista Assane Diop usa disfarces e truques de mestre para vingar seu pai de uma injustiça causada por uma família rica.",
+    "classificacao": "16 anos",
+    "tipo": "Série",
+    "ano": "2021",
+    "tempo": "50 minutos por episódio"
+  },
+  {
+    "nome": "black clover",
+    "genero": "Ação / Aventura / Fantasia",
+    "sinopse": "Asta, um garoto nascido sem magia em um mundo onde todos a possuem, sonha em se tornar o Rei dos Feiticeiros e luta com sua espada anti-magia para proteger seus amigos e seu reino.",
+    "classificacao": "14 anos",
+    "tipo": "Anime",
+    "ano": "2017",
+    "tempo": "24 minutos por episódio"
+  },
+  {
+    "nome": "Meu Malvado Favorito",
+    "genero": "Animação / Comédia / Família",
+    "sinopse": "Gru, um supervilão charmoso e desempregado, decide roubar a Lua para provar seu valor, mas sua vida muda completamente quando três órfãs decidem que ele será seu pai.",
+    "classificacao": "Livre",
+    "tipo": "Animação",
+    "ano": "2010",
+    "tempo": "1 hora 35 minutos"
+  }
+]
